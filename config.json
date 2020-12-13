@@ -1,0 +1,10 @@
+{
+    "PathToTmpFolder": "/tmp/EventUploader_Tmp/img/",
+    "PathToBackUpFolder": "/tmp/EventUploader_Tmp/msg/",
+    "RemouteServerPort": "2020",
+    "RemouteServerURI": "http://localhost:",
+    "RemouteServerName": "/cv",
+    "ServerPort": "2021",
+    "ServerURI": "http://localhost:",
+    "ServerName": "/cv"
+}
